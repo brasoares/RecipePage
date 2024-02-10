@@ -91,7 +91,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Henoc](https://www.your-site.com)
+- Website - [Henoc](https://henocsoares.com.br)
 - Frontend Mentor - [@brasoares](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@brasoares](https://www.twitter.com/yourusername)
 
